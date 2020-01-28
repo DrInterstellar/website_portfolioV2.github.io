@@ -3887,6 +3887,7 @@ input[type="button"].btn-block {
     margin-right: 25%;
     margin-top: 30px;
     margin-bottom: 30px;
+    color: white;
   }
   @keyframes rainbow {
     0%   {background-color: red;}
@@ -10123,4 +10124,3 @@ textarea.form-control {
 
 
 /* LINE 10,000! */
-
