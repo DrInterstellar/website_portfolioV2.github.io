@@ -111,14 +111,16 @@ ul ol {
   margin-bottom: 0; }
 
 .todo-wrapper {
-    margin-top: 50px;
     background-color: #fff;
     border-radius: 15px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 20%;
+    margin-right: 20%;
     padding: 30px;
     font-weight: 300;
     color: black;
+    border-style: solid;
+    border-color: yellow;
+  border-width: 5px;
 }
 
 .todo-wrapper h2 {
