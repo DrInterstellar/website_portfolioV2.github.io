@@ -8,7 +8,8 @@ var emptyButton = document.getElementById("empty-button");
 emptyButton.addEventListener("click", emptyList);
 
 var saveButton = document.getElementById("save-button");
-saveButton.addEventListener("click", saveList);
+// saveButton.addEventListener("click", saveList);
+setInterval(saveList, 1000)
 
 function clearCompletedToDoItems() {
   alert("Clear Completed button clicked!");
